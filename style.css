@@ -22,3 +22,8 @@
     line-height: 3;
     text-align: center;
 }
+
+canvas
+{
+    color: #ff66ff;
+}
